@@ -1,7 +1,7 @@
 ![20240612_040026](https://github.com/lZemphix/lZemphix/assets/160344440/06d0e2db-dc22-4e68-83a2-3c9672afbf58)
 
 ## Languages used:
-#### ![Static Badge](https://img.shields.io/badge/Python-100%25-blue)
+#### ![Static Badge](https://img.shields.io/badge/Python-3.10.6-blue)
 
 
 
