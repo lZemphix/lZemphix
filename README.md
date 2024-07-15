@@ -12,6 +12,8 @@
 
 
 ## Finished projects:
+- [Parser "MOEX news tracker"](https://github.com/lZemphix/MOEX_news_tracker) -
+![GitHub Tag](https://img.shields.io/github/v/tag/lZemphix/MOEX_news_tracker?label=Release&color=%20%23FDA50F)
 
 - [Telegram bot "Play girl"](https://github.com/lZemphix/Play_girl_bot) -
 ![GitHub Tag](https://img.shields.io/github/v/tag/lZemphix/Play_girl_bot?label=Release&color=%20%23FDA50F)
