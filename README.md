@@ -20,3 +20,7 @@
 
 - [Telegram bot "Aiya bot"](https://github.com/lZemphix/aiya_bot) -
 ![GitHub Tag](https://img.shields.io/github/v/tag/lZemphix/aiya_bot?label=Release&color=%20%23FDA50F)
+
+- [Telegram bot "Teammates search bot"](https://github.com/lZemphix/teammates_search_bot) -
+![GitHub Tag](https://img.shields.io/github/v/tag/lZemphix/teammates_search_bot?label=Release&color=%20%23FDA50F)
+
