@@ -7,11 +7,14 @@
 
 
 ## Active projects:
-- [Steam Investment Tracker](https://github.com/lZemphix/Steam-Investment-Tracker) -
-![GitHub Tag](https://img.shields.io/github/v/tag/lZemphix/Steam-Investment-Tracker?label=Release&color=%20%23FDA50F)
+- [Ihorium Trade bot](https://github.com/lZemphix/ihorium_trade_bot) -
+![GitHub Tag](https://img.shields.io/github/v/tag/lZemphix/ihorium_trade_bot?label=Release&color=%20%23FDA50F)
 
 
 ## Finished projects:
+- [Steam Investment Tracker](https://github.com/lZemphix/Steam-Investment-Tracker) -
+![GitHub Tag](https://img.shields.io/github/v/tag/lZemphix/Steam-Investment-Tracker?label=Release&color=%20%23FDA50F)
+
 - [Parser "MOEX news tracker"](https://github.com/lZemphix/MOEX_news_tracker) -
 ![GitHub Tag](https://img.shields.io/github/v/tag/lZemphix/MOEX_news_tracker?label=Release&color=%20%23FDA50F)
 
