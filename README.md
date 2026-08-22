@@ -28,21 +28,19 @@ I turn ideas into practical applications—from a Telegram interface to parsers,
 
 - [Axiqron](https://github.com/lZemphix/Axiqron) — work in progress
 
-## 🌟 Featured work
+## 📂 Projects
 
-<a href="https://github.com/lZemphix/Steam-Investment-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lZemphix&repo=Steam-Investment-Tracker&theme=tokyonight&hide_border=true" alt="Steam Investment Tracker">
-</a>
-<a href="https://github.com/lZemphix/MOEX_news_tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lZemphix&repo=MOEX_news_tracker&theme=tokyonight&hide_border=true" alt="MOEX News Tracker">
-</a>
-<a href="https://github.com/lZemphix/telegram_bot_template">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lZemphix&repo=telegram_bot_template&theme=tokyonight&hide_border=true" alt="Telegram Bot Template">
-</a>
-<a href="https://github.com/lZemphix/aiya_bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lZemphix&repo=aiya_bot&theme=tokyonight&hide_border=true" alt="Aiya Bot">
-</a>
+|  | Project | Description | Tags | Status |
+| :---: | --- | --- | --- | :---: |
+| <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4bb.svg" alt="Laptop" width="28"> | [Axiqron](https://github.com/lZemphix/Axiqron) | Current Python project. | `Python` | 🟢 In progress |
+| <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4b0.svg" alt="Money bag" width="28"> | [Steam Investment Tracker](https://github.com/lZemphix/Steam-Investment-Tracker) | Tracks returns on Steam marketplace investments. | `Python` `Steam` `parsing` | ✅ Completed |
+| <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4ca.svg" alt="Bar chart" width="28"> | [MOEX News Tracker](https://github.com/lZemphix/MOEX_news_tracker) | Follows and collects the latest Moscow Exchange news. | `Python` `parsing` `analytics` | ✅ Completed |
+| <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="28"> | [Telegram Bot Template](https://github.com/lZemphix/telegram_bot_template) | Reusable foundation for building Telegram bots. | `Python` `Telegram` `MIT` | ✅ Completed |
+| <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="28"> | [Aiya Bot](https://github.com/lZemphix/aiya_bot) | Bot for sharing fanfics and coordinating contributors. | `Python` `aiogram` `Telegram` | ✅ Completed |
+| <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f916.svg" alt="Robot" width="28"> | [Teammates Search Bot](https://github.com/lZemphix/teammates_search_bot) | Helps players find teammates for different games. | `Python` `Telegram` | ✅ Completed |
 
 <p align="center">
   <a href="https://github.com/lZemphix?tab=repositories">Explore all repositories →</a>
 </p>
+
+<sub>Icons: <a href="https://github.com/twitter/twemoji">Twemoji</a> (CC-BY 4.0) and <a href="https://github.com/simple-icons/simple-icons">Simple Icons</a> (CC0).</sub>
