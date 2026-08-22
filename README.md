@@ -1,39 +1,43 @@
-<h1 align="center">Hi, I'm Zemphix 👋</h1>
+<h1 align="center">Hey, I'm Zemphix 👋</h1>
 
 <p align="center">
-  Python developer focused on Telegram bots, automation, and data-driven tools.
+  <a href="https://github.com/lZemphix"><img src="https://img.shields.io/badge/GitHub-lZemphix-181717?style=flat-square&logo=github" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/Python-developer-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python developer">
+  <img src="https://img.shields.io/badge/Telegram-bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram bots">
 </p>
+
+> I build practical Python products: Telegram bots, backend services, parsers, and data-driven tools.
+
+<p>
+  🧩 <b>Turning ideas into useful applications.</b><br>
+  🤖 Telegram Bot API &nbsp;•&nbsp; aiogram &nbsp;•&nbsp; FastAPI &nbsp;•&nbsp; automation &nbsp;•&nbsp; parsing<br>
+  📈 Interested in finance tools, integrations, and clean developer experience.
+</p>
+
+## Currently building
+
+<a href="https://github.com/lZemphix/Axiqron">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lZemphix&repo=Axiqron&theme=tokyonight&hide_border=true" alt="Axiqron">
+</a>
+<a href="https://github.com/lZemphix/webpulse-diplom">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lZemphix&repo=webpulse-diplom&theme=tokyonight&hide_border=true" alt="WebPulse">
+</a>
+
+## Things I've built
+
+<a href="https://github.com/lZemphix/Steam-Investment-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lZemphix&repo=Steam-Investment-Tracker&theme=tokyonight&hide_border=true" alt="Steam Investment Tracker">
+</a>
+<a href="https://github.com/lZemphix/MOEX_news_tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lZemphix&repo=MOEX_news_tracker&theme=tokyonight&hide_border=true" alt="MOEX News Tracker">
+</a>
+<a href="https://github.com/lZemphix/telegram_bot_template">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lZemphix&repo=telegram_bot_template&theme=tokyonight&hide_border=true" alt="Telegram Bot Template">
+</a>
+<a href="https://github.com/lZemphix/aiya_bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lZemphix&repo=aiya_bot&theme=tokyonight&hide_border=true" alt="Aiya Bot">
+</a>
 
 <p align="center">
-  <a href="https://github.com/lZemphix?tab=repositories"><img src="https://img.shields.io/badge/Explore-my%20repositories-181717?style=for-the-badge&logo=github" alt="GitHub repositories"></a>
+  <a href="https://github.com/lZemphix?tab=repositories">Explore all repositories →</a>
 </p>
-
-## About me
-
-I build practical Python applications: Telegram bots, parsers, trackers, and tools for working with market data. I enjoy turning an idea into a clean, usable product—from the bot interface to data storage and automation.
-
-**Main interests:** Python · Telegram Bot API · aiogram · FastAPI · automation · parsing · finance tools
-
-## Selected work
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [Steam Investment Tracker](https://github.com/lZemphix/Steam-Investment-Tracker) | Tool for tracking returns on Steam marketplace investments. | Python · parsing · Steam |
-| [MOEX News Tracker](https://github.com/lZemphix/MOEX_news_tracker) | Application that follows the latest news from the Moscow Exchange website. | Python · parsing |
-| [Telegram Bot Template](https://github.com/lZemphix/telegram_bot_template) | A reusable starting point for Telegram bots. | Python · Telegram · MIT |
-| [Teammates Search Bot](https://github.com/lZemphix/teammates_search_bot) | Bot for finding teammates for different games. | Python · Telegram |
-| [Aiya Bot](https://github.com/lZemphix/aiya_bot) | Bot for sharing fanfics and coordinating beta, gamma, and co-writers. | Python · aiogram |
-
-## Currently exploring
-
-- [Axiqron](https://github.com/lZemphix/Axiqron)
-- [WebPulse](https://github.com/lZemphix/webpulse-diplom)
-- Improving reusable tooling for Telegram bots and backend services
-
-## More projects
-
-The repository list also includes [Ihorium Trade Bot](https://github.com/lZemphix/ihorium_trade_bot), [Crypto Bot](https://github.com/lZemphix/Crypto_Bot), and experiments with FastAPI, Neovim, and Python templates.
-
----
-
-<p align="center">Thanks for stopping by.</p>
