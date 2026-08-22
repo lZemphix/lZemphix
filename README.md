@@ -1,28 +1,39 @@
-![20240612_040026](https://github.com/lZemphix/lZemphix/assets/160344440/06d0e2db-dc22-4e68-83a2-3c9672afbf58)
+<h1 align="center">Hi, I'm Zemphix 👋</h1>
 
-## Languages used:
-![Static Badge](https://img.shields.io/badge/Python-3.13.0-yellow)
+<p align="center">
+  Python developer focused on Telegram bots, automation, and data-driven tools.
+</p>
 
+<p align="center">
+  <a href="https://github.com/lZemphix?tab=repositories"><img src="https://img.shields.io/badge/Explore-my%20repositories-181717?style=for-the-badge&logo=github" alt="GitHub repositories"></a>
+</p>
 
+## About me
 
-## Active projects:
-- [Ihorium Trade bot](https://github.com/lZemphix/ihorium_trade_bot) -
-![GitHub Tag](https://img.shields.io/github/v/tag/lZemphix/ihorium_trade_bot?label=Release&color=%20%23FDA50F)
+I build practical Python applications: Telegram bots, parsers, trackers, and tools for working with market data. I enjoy turning an idea into a clean, usable product—from the bot interface to data storage and automation.
 
+**Main interests:** Python · Telegram Bot API · aiogram · FastAPI · automation · parsing · finance tools
 
-## Finished projects:
-- [Steam Investment Tracker](https://github.com/lZemphix/Steam-Investment-Tracker) -
-![GitHub Tag](https://img.shields.io/github/v/tag/lZemphix/Steam-Investment-Tracker?label=Release&color=%20%23FDA50F)
+## Selected work
 
-- [Parser "MOEX news tracker"](https://github.com/lZemphix/MOEX_news_tracker) -
-![GitHub Tag](https://img.shields.io/github/v/tag/lZemphix/MOEX_news_tracker?label=Release&color=%20%23FDA50F)
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Steam Investment Tracker](https://github.com/lZemphix/Steam-Investment-Tracker) | Tool for tracking returns on Steam marketplace investments. | Python · parsing · Steam |
+| [MOEX News Tracker](https://github.com/lZemphix/MOEX_news_tracker) | Application that follows the latest news from the Moscow Exchange website. | Python · parsing |
+| [Telegram Bot Template](https://github.com/lZemphix/telegram_bot_template) | A reusable starting point for Telegram bots. | Python · Telegram · MIT |
+| [Teammates Search Bot](https://github.com/lZemphix/teammates_search_bot) | Bot for finding teammates for different games. | Python · Telegram |
+| [Aiya Bot](https://github.com/lZemphix/aiya_bot) | Bot for sharing fanfics and coordinating beta, gamma, and co-writers. | Python · aiogram |
 
-- [Telegram bot "Play girl"](https://github.com/lZemphix/Play_girl_bot) -
-![GitHub Tag](https://img.shields.io/github/v/tag/lZemphix/Play_girl_bot?label=Release&color=%20%23FDA50F)
+## Currently exploring
 
-- [Telegram bot "Aiya bot"](https://github.com/lZemphix/aiya_bot) -
-![GitHub Tag](https://img.shields.io/github/v/tag/lZemphix/aiya_bot?label=Release&color=%20%23FDA50F)
+- [Axiqron](https://github.com/lZemphix/Axiqron)
+- [WebPulse](https://github.com/lZemphix/webpulse-diplom)
+- Improving reusable tooling for Telegram bots and backend services
 
-- [Telegram bot "Teammates search bot"](https://github.com/lZemphix/teammates_search_bot) -
-![GitHub Tag](https://img.shields.io/github/v/tag/lZemphix/teammates_search_bot?label=Release&color=%20%23FDA50F)
+## More projects
 
+The repository list also includes [Ihorium Trade Bot](https://github.com/lZemphix/ihorium_trade_bot), [Crypto Bot](https://github.com/lZemphix/Crypto_Bot), and experiments with FastAPI, Neovim, and Python templates.
+
+---
+
+<p align="center">Thanks for stopping by.</p>
