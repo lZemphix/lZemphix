@@ -1,29 +1,36 @@
-<h1 align="center">Hey, I'm Zemphix 👋</h1>
+# Hi 👋, I'm Zemphix
 
-<p align="center">
-  <a href="https://github.com/lZemphix"><img src="https://img.shields.io/badge/GitHub-lZemphix-181717?style=flat-square&logo=github" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Python-developer-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python developer">
-  <img src="https://img.shields.io/badge/Telegram-bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram bots">
-</p>
+### A Python developer building bots, backend services, and data tools
 
-> I build practical Python products: Telegram bots, backend services, parsers, and data-driven tools.
+I turn ideas into practical applications—from a Telegram interface to parsers, storage, and automation.
+
+## 🛠️ Tech stack
 
 <p>
-  🧩 <b>Turning ideas into useful applications.</b><br>
-  🤖 Telegram Bot API &nbsp;•&nbsp; aiogram &nbsp;•&nbsp; FastAPI &nbsp;•&nbsp; automation &nbsp;•&nbsp; parsing<br>
-  📈 Interested in finance tools, integrations, and clean developer experience.
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="42"></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="42"></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="42"></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="42"></a>
+  <a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" height="42"></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="42"></a>
 </p>
 
-## Currently building
+**Also working with:** Telegram Bot API · aiogram · automation · parsing · finance tools
 
-<a href="https://github.com/lZemphix/Axiqron">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lZemphix&repo=Axiqron&theme=tokyonight&hide_border=true" alt="Axiqron">
-</a>
-<a href="https://github.com/lZemphix/webpulse-diplom">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lZemphix&repo=webpulse-diplom&theme=tokyonight&hide_border=true" alt="WebPulse">
-</a>
+## 💡 What I enjoy building
 
-## Things I've built
+- Telegram bots with useful, clear interfaces
+- Parsers and trackers that turn public data into actionable information
+- Backend services and small tools that automate routine work
+- Personal-finance and market-data experiments
+
+## 💻 Current projects
+
+- [Axiqron](https://github.com/lZemphix/Axiqron) — work in progress
+- [WebPulse](https://github.com/lZemphix/webpulse-diplom) — work in progress
+- Improving reusable building blocks for Telegram bots
+
+## 🌟 Featured work
 
 <a href="https://github.com/lZemphix/Steam-Investment-Tracker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lZemphix&repo=Steam-Investment-Tracker&theme=tokyonight&hide_border=true" alt="Steam Investment Tracker">
