@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/lZemphix/lZemphix/assets/160344440/06d0e2db-dc22-4e68-83a2-3c9672afbf58" alt="Zemphix logo" width="220">
+</p>
+
 # Hi 👋, I'm Zemphix
 
 ### A Python developer building bots, backend services, and data tools
