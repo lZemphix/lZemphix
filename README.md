@@ -24,15 +24,24 @@ I turn ideas into practical applications—from a Telegram interface to parsers,
 - Backend services and small tools that automate routine work
 - Personal-finance and market-data experiments
 
-## 💻 Current projects
+## 💻 Current project
 
-- [Axiqron](https://github.com/lZemphix/Axiqron) — work in progress
+### [Axiqron](https://github.com/lZemphix/Axiqron) — modular crypto-trading platform
+
+An algorithmic crypto bot for trading on exchanges. The goal is to let users write their own scripts and strategies or add tested strategies created by others.
+
+**Planned capabilities:**
+
+- Web GUI, CLI, and Docker-based deployment
+- Strategy statistics and backtesting on collected OHLCV datasets
+- Paper-trading mode to validate a strategy against the live market
+- AI-powered signals as an optional indicator—not the sole basis for a trading decision
 
 ## 📂 Projects
 
 |  | Project | Description | Tags | Status |
 | :---: | --- | --- | --- | :---: |
-| <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4bb.svg" alt="Laptop" width="28"> | [Axiqron](https://github.com/lZemphix/Axiqron) | Current Python project. | `Python` | 🟢 In progress |
+| <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4b0.svg" alt="Money bag" width="28"> | [Axiqron](https://github.com/lZemphix/Axiqron) | Modular crypto-trading bot for user-built and tested strategies. | `Python` `crypto` `trading` `Docker` | 🟢 In progress |
 | <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4b0.svg" alt="Money bag" width="28"> | [Steam Investment Tracker](https://github.com/lZemphix/Steam-Investment-Tracker) | Tracks returns on Steam marketplace investments. | `Python` `Steam` `parsing` | ✅ Completed |
 | <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4ca.svg" alt="Bar chart" width="28"> | [MOEX News Tracker](https://github.com/lZemphix/MOEX_news_tracker) | Follows and collects the latest Moscow Exchange news. | `Python` `parsing` `analytics` | ✅ Completed |
 | <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="28"> | [Telegram Bot Template](https://github.com/lZemphix/telegram_bot_template) | Reusable foundation for building Telegram bots. | `Python` `Telegram` `MIT` | ✅ Completed |
