@@ -27,8 +27,6 @@ I turn ideas into practical applications—from a Telegram interface to parsers,
 ## 💻 Current projects
 
 - [Axiqron](https://github.com/lZemphix/Axiqron) — work in progress
-- [WebPulse](https://github.com/lZemphix/webpulse-diplom) — work in progress
-- Improving reusable building blocks for Telegram bots
 
 ## 🌟 Featured work
 
